@@ -1667,10 +1667,10 @@
     tronweb "5.3.2"
     ts-protoc-gen "^0.15.0"
 
-"@oraichain/ton-bridge-contracts@0.15.8":
-  version "0.15.8"
-  resolved "https://registry.yarnpkg.com/@oraichain/ton-bridge-contracts/-/ton-bridge-contracts-0.15.8.tgz#7e5842bbb8cec6ac70319db2df0c961416d0d18a"
-  integrity sha512-0ZPIygoo+1pz7jp1Rv74P8tYltnLaX4y6bPhGP3S/OHGN1LiIyPE+ch08Ng+AqgYkt54uycJoyMKDCLXzNacCw==
+"@oraichain/ton-bridge-contracts@^0.15.8":
+  version "0.15.9"
+  resolved "https://registry.yarnpkg.com/@oraichain/ton-bridge-contracts/-/ton-bridge-contracts-0.15.9.tgz#279f78ac434d5df69ccf2e51c01e57484789e91e"
+  integrity sha512-M4ukzlCkPRS+3S+05g/P+82fXjBCe05kBqpJiaZkUDAN7UDbRQJH480AZWl8HotPiM1Ae2TKNl8GPivNmzmwRA==
   dependencies:
     "@cosmjs/tendermint-rpc" "^0.32.4"
     "@orbs-network/ton-access" "^2.3.3"
@@ -1679,7 +1679,7 @@
     dotenv "^16.4.5"
     varstruct "^6.1.3"
 
-"@oraichain/tonbridge-contracts-sdk@1.3.6":
+"@oraichain/tonbridge-contracts-sdk@^1.3.6":
   version "1.3.6"
   resolved "https://registry.yarnpkg.com/@oraichain/tonbridge-contracts-sdk/-/tonbridge-contracts-sdk-1.3.6.tgz#1ee1309e6bb8e186eaa5d706c7d32276ef976402"
   integrity sha512-k1DgzfYg3nQNPn2dLiXbkDHXd1WREQA9Dl0ezQ5kPtnlbNK9XjmxSco2gmaJwql0tE3cbBExUflfG0MaRF0dWw==
@@ -1852,7 +1852,7 @@
   dependencies:
     "@tanstack/query-core" "5.49.1"
 
-"@ton/core@0.56.3":
+"@ton/core@^0.56.3":
   version "0.56.3"
   resolved "https://registry.yarnpkg.com/@ton/core/-/core-0.56.3.tgz#1162764573abb76032eba70f8497e5cb2ea532ee"
   integrity sha512-HVkalfqw8zqLLPehtq0CNhu5KjVzc7IrbDwDHPjGoOSXmnqSobiWj8a5F+YuWnZnEbQKtrnMGNOOjVw4LG37rg==
@@ -1875,7 +1875,7 @@
     jssha "3.2.0"
     tweetnacl "1.0.3"
 
-"@ton/ton@14.0.0":
+"@ton/ton@^14.0.0":
   version "14.0.0"
   resolved "https://registry.yarnpkg.com/@ton/ton/-/ton-14.0.0.tgz#a66fbbfb159200892557442039a0341cda71fc2d"
   integrity sha512-xb2CY6U0AlHUKc7DV7xK/K4Gqn6YoR253yUrM2E7L5WegVFsDF0CQRUIfpYACCuj1oUywQc5J2oMolYNu/uGkA==
@@ -9561,9 +9561,9 @@ valid-url@^1:
   integrity sha512-QQDsV8OnSf5Uc30CKSwG9lnhMPe6exHtTXLRYX8uMwKENy640pU+2BgBL0LRbDh/eYRahNCS7aewCx0wf3NYVA==
 
 validator@^13.7.0:
-  version "13.12.0"
-  resolved "https://registry.yarnpkg.com/validator/-/validator-13.12.0.tgz#7d78e76ba85504da3fee4fd1922b385914d4b35f"
-  integrity sha512-c1Q0mCiPlgdTVVVIJIrBuxNicYE+t/7oKeI9MWLj3fh/uq2Pxh/3eeWbVZ4OcGW1TUf53At0njHw5SMdA3tmMg==
+  version "13.15.20"
+  resolved "https://registry.yarnpkg.com/validator/-/validator-13.15.20.tgz#054e9238109538a1bf46ae3e1290845a64fa2186"
+  integrity sha512-KxPOq3V2LmfQPP4eqf3Mq/zrT0Dqp2Vmx2Bn285LwVahLc+CsxOM0crBHczm8ijlcjZ0Q5Xd6LW3z3odTPnlrw==
 
 varstruct@^6.1.3:
   version "6.1.3"
